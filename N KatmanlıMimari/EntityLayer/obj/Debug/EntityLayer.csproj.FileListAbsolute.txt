@@ -1,0 +1,6 @@
+C:\Users\Metin\source\repos\Metin Form\N KatmanlıMimari\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\Metin\source\repos\Metin Form\N KatmanlıMimari\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Metin\source\repos\Metin Form\N KatmanlıMimari\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\Metin\source\repos\Metin Form\N KatmanlıMimari\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Metin\source\repos\Metin Form\N KatmanlıMimari\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\Metin\source\repos\Metin Form\N KatmanlıMimari\EntityLayer\obj\Debug\EntityLayer.pdb

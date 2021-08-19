@@ -1,0 +1,11 @@
+C:\Users\Metin\source\repos\Metin Form\N KatmanlıMimari\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\Metin\source\repos\Metin Form\N KatmanlıMimari\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\Metin\source\repos\Metin Form\N KatmanlıMimari\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Metin\source\repos\Metin Form\N KatmanlıMimari\LogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\Metin\source\repos\Metin Form\N KatmanlıMimari\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Metin\source\repos\Metin Form\N KatmanlıMimari\LogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Metin\source\repos\Metin Form\N KatmanlıMimari\LogicLayer\obj\Debug\LogicLayer.csprojAssemblyReference.cache
+C:\Users\Metin\source\repos\Metin Form\N KatmanlıMimari\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Metin\source\repos\Metin Form\N KatmanlıMimari\LogicLayer\obj\Debug\LogicLayer.csproj.CopyComplete
+C:\Users\Metin\source\repos\Metin Form\N KatmanlıMimari\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\Metin\source\repos\Metin Form\N KatmanlıMimari\LogicLayer\obj\Debug\LogicLayer.pdb

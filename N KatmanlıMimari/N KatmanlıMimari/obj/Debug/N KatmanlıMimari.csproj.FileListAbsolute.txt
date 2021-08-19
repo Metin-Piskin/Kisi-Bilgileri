@@ -1,0 +1,17 @@
+C:\Users\Metin\source\repos\Metin Form\N KatmanlıMimari\N KatmanlıMimari\bin\Debug\N KatmanlıMimari.exe.config
+C:\Users\Metin\source\repos\Metin Form\N KatmanlıMimari\N KatmanlıMimari\bin\Debug\N KatmanlıMimari.exe
+C:\Users\Metin\source\repos\Metin Form\N KatmanlıMimari\N KatmanlıMimari\bin\Debug\N KatmanlıMimari.pdb
+C:\Users\Metin\source\repos\Metin Form\N KatmanlıMimari\N KatmanlıMimari\bin\Debug\DataAccessLayer.dll
+C:\Users\Metin\source\repos\Metin Form\N KatmanlıMimari\N KatmanlıMimari\bin\Debug\EntityLayer.dll
+C:\Users\Metin\source\repos\Metin Form\N KatmanlıMimari\N KatmanlıMimari\bin\Debug\LogicLayer.dll
+C:\Users\Metin\source\repos\Metin Form\N KatmanlıMimari\N KatmanlıMimari\bin\Debug\DataAccessLayer.pdb
+C:\Users\Metin\source\repos\Metin Form\N KatmanlıMimari\N KatmanlıMimari\bin\Debug\EntityLayer.pdb
+C:\Users\Metin\source\repos\Metin Form\N KatmanlıMimari\N KatmanlıMimari\bin\Debug\LogicLayer.pdb
+C:\Users\Metin\source\repos\Metin Form\N KatmanlıMimari\N KatmanlıMimari\obj\Debug\N KatmanlıMimari.csprojAssemblyReference.cache
+C:\Users\Metin\source\repos\Metin Form\N KatmanlıMimari\N KatmanlıMimari\obj\Debug\N_KatmanlıMimari.Properties.Resources.resources
+C:\Users\Metin\source\repos\Metin Form\N KatmanlıMimari\N KatmanlıMimari\obj\Debug\N KatmanlıMimari.csproj.GenerateResource.cache
+C:\Users\Metin\source\repos\Metin Form\N KatmanlıMimari\N KatmanlıMimari\obj\Debug\N KatmanlıMimari.csproj.CoreCompileInputs.cache
+C:\Users\Metin\source\repos\Metin Form\N KatmanlıMimari\N KatmanlıMimari\obj\Debug\N KatmanlıMimari.csproj.CopyComplete
+C:\Users\Metin\source\repos\Metin Form\N KatmanlıMimari\N KatmanlıMimari\obj\Debug\N KatmanlıMimari.exe
+C:\Users\Metin\source\repos\Metin Form\N KatmanlıMimari\N KatmanlıMimari\obj\Debug\N KatmanlıMimari.pdb
+C:\Users\Metin\source\repos\Metin Form\N KatmanlıMimari\N KatmanlıMimari\obj\Debug\N_KatmanlıMimari.İşlemler.resources
